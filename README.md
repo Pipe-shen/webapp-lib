@@ -4,7 +4,9 @@
 
 ### Vue 项目
 
-1. [**vue-infinite-loading**](https://github.com/PeachScript/vue-infinite-loading) - 上拉加载
+1. [vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading) - 上拉加载
+2. [vue-resource](https://github.com/pagekit/vue-resource) - http请求
+3. 
 
 ### 普通项目
 
